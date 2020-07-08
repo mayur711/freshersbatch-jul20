@@ -1,0 +1,69 @@
+#h1
+{
+	text-transform: uppercase;
+	font-style: italic;
+	color:green;
+	background-color: pink;	
+}
+/*hexadecimal color*/
+#div1
+{
+	text-transform: lowercase;
+	font-style: italic;
+	color:#de9437;
+	background-color:#589460;	
+}
+/*RGB COLOR*/
+#div2
+{
+	text-transform: uppercase;
+	font-style: italic;
+	color:rgb(255,0,0);;
+	background-color: rgb(100,0,110);	
+}
+/*RGBA Color*/
+#div3
+{
+	text-transform: lowercase;
+	font-style: italic;
+	color:rgba(255,0,0,0.3);
+	background-color:rgba(150,2,10,0.3)	
+}
+/*HSL Color*/
+#p1{
+	text-transform: uppercase;
+	font-style: italic;
+	color:hsl(234, 21%, 79%);
+	background-color: hsl(234, 30%, 50%)	
+}
+
+#p2{
+	text-transform: lowercase;
+	font-style: italic;
+	color:hsla(0, 100%, 30%, 0.3);;
+	background-color: hsla(15, 50%, 60%, 0.3);	
+}
+
+
+#p3{
+	text-transform: uppercase;
+	font-style: italic;
+	color:green;
+	background-color: pink	
+}
+
+
+#p4{
+	text-transform: lowercase;
+	font-style: italic;
+	color:green;
+	background-color: pink	
+}
+
+
+#p5{
+	text-transform: uppercase;
+	font-style: italic;
+	color:green;
+	background-color: pink	
+}
